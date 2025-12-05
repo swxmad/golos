@@ -1,0 +1,6 @@
+.main {
+    display: flex;
+    gap: 15px;
+    background-color: rgb(134, 204, 125);
+    padding: 15px 50px;
+}
